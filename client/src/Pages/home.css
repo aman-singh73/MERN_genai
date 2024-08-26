@@ -1,0 +1,10 @@
+.fle {
+    overflow: hidden;
+    white-space: nowrap;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .fle:hover {
+    background-color: rgba(255, 234, 234, 0.5); /* Light coral */
+    transform: scale(1.02);
+  }
